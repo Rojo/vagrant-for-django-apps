@@ -1,0 +1,1 @@
+# Vagrant for Django Apps
